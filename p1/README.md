@@ -12,7 +12,7 @@ You will be implementing some basic functions in Python as practice, including u
 
 ## Setup
 
-Make sure Python 3.6+ is installed on your computer.
+Make sure Python 3.9 is installed on your computer.
 
 You should work on this project (and the other projects in this course) in a virtual environment.
 Navigate to the root of a directory you will use for this class. You should use the same environment
