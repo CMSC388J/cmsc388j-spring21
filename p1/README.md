@@ -1,8 +1,8 @@
 # P1: Python practice 
 
-**Assigned**: Week 1, September 2nd, 2020
+**Assigned**: Week 1, January 29th, 2021
 
-**Due**: Week 2, September 8th, 2020
+**Due**: Week 2, Febuary 4th, 2021
 
 **Late deadline**: Refer to syllabus for policy
 
