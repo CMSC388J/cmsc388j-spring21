@@ -4,7 +4,7 @@ import requests
 class PokeClient(object):
     def __init__(self):
         self.sess = requests.Session()
-        self.sess.headers.update({'User Agent': 'CMSC388J Fall 2020 Project 2'})
+        self.sess.headers.update({'User Agent': 'CMSC388J Spring 2021 Project 2'})
         self.base_url = 'https://pokeapi.co/api/v2'
 
     def get_pokemon_list(self):
