@@ -2,7 +2,7 @@
 
 **Assigned**: Week 2, Fenruary 5th, 2021
 
-**Due**: Week 4, February 18th, 2020, 11:59 PM
+**Due**: Week 4, February 18th, 2021, 11:59 PM
 
 **Late Deadline**: Refer to syllabus for the policy.
 
