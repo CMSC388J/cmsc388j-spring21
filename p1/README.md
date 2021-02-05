@@ -1,8 +1,8 @@
 # P1: Python practice 
 
-**Assigned**: Week 1, September 2nd, 2020
+**Assigned**: Week 1, January 29th, 2021
 
-**Due**: Week 2, September 8th, 2020
+**Due**: Week 2, Febuary 4th, 2021
 
 **Late deadline**: Refer to syllabus for policy
 
@@ -12,12 +12,14 @@ You will be implementing some basic functions in Python as practice, including u
 
 ## Setup
 
-Make sure Python 3.6+ is installed on your computer.
+Make sure Python 3.9 is installed on your computer.
 
 You should work on this project (and the other projects in this course) in a virtual environment.
 Navigate to the root of a directory you will use for this class. You should use the same environment
 for all projects in this course; you don't need more than one.
 To create and activate one, enter the following commands in your terminal:
+
+> Tip: You can clone the whole repo (`cmsc388j-spring21`) and use that as your root directory for this class. Then, you can just run `git pull` to get new projects.
 
 For Mac/Linux:
 ```bash
