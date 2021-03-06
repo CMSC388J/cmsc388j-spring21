@@ -2,9 +2,9 @@
 
 **Assigned**: February 19th, 2021
 
-**Due**: March 4th, 2021, 11:59 PM Eastern
+**Deadline**: March 7th, 2021, 11:59 PM Eastern
+(No late deadline)
 
-**Late Deadline**: March 7th, 2021, 11:59 PM Eastern
 
 ## Description
 
