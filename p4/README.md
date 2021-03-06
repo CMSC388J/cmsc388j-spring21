@@ -262,7 +262,7 @@ We've listed all the requirements above, in high detail. Make sure you fill
 out all of those requirements, and that you display errors relevant to each
 page properly, and that the `current_user` object is used where needed.
 
-*We will be* releasing a set of demo videos within the next couple of days.
+Demo video: [here](https://drive.google.com/file/d/1Dl1Xbdq7OjbZcpfB4L8ZjE4L-T1mFlwX/view?usp=sharing)
 
 ## Submissions
 
