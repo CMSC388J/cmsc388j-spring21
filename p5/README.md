@@ -139,8 +139,8 @@ You'll have to implement some tests in `test_movies.py` and `test_users.py`.
   - Test that with (1) a movie_id shorter than 9 characters, 
     (2) a movie_id exactly 9 characters (but an invalid id), and (3) a 
     movie_id longer than 9 characters, the request has a status code of 
-    `302` and the error message "Incorrect IMDb ID" is displayed on the 
-    page you're redirected to.
+    `302` and (when using `follow_redirects=True`) the error message "Incorrect IMDb ID" is displayed on the 
+    page you're redirected to. (So, you'd need to use two gets, two with/without `follow_redirects=True`)
 - Implement `test_movie_review_input_validation(client, auth, comment, message)` with `pytest.mark.parametrize`
   - This test checks whether the proper validation errors from `MovieReviewForm`
     are raised when you provide incorrect input.
